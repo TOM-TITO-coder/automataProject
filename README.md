@@ -1,4 +1,4 @@
-![MaterHead](https://github.com/daraaveasna/Quiz01/blob/main/githubBanner.gif)
+![MaterHead](https://github.com/Tito-com/automataProject/blob/main/githubBanner.gif)
 
 <h1 align="center">
 
