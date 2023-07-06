@@ -45,11 +45,11 @@ AUTOMATA ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 # Members <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 * [TOM Tito](https://github.com/Tito-com) - *Leader*
 * [VEASNA Dara](https://github.com/daraaveasna) 
-* [SORPORN Sovatey](https://github.com/Unsengly)
-* [TEANG Sreyroth](https://github.com/daraaveasna)
-* [TY Sopheaktra](https://github.com/Anonymousdesu)
+* [SORPORN Sovatey](https://github.com/sovortey514)
+* [TEANG Sreyroth](https://github.com/teangsreyroth)
+* [TY Sopheaktra](https://github.com/SopheaktraTy)
 
-> Manage Automata projects in Pycham
+> Manage Automata projects in Pycharm
 
 [![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/windows.yml?label=Windows%20Build&style=flat-square)](https://github.com/microsoft/vscode-java-dependency/actions/workflows/windows.yml?query=branch%3Amain)
 
@@ -74,4 +74,4 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 
 ## Dependency Management
 
-The `AUTOMATA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+The `AUTOMATA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/topics/automata).
