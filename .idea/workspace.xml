@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7bc8b42-8dfb-4b09-aaef-906858d76d6d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b7bc8b42-8dfb-4b09-aaef-906858d76d6d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Techo/OneDrive/Documents/Y3S2_GIC/Automata Theory/automata",
+    "last_opened_file_path": "C:/Users/Techo/OneDrive/Documents/Y3S2_GIC/Automata Theory/automataProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,6 +73,7 @@
       <workItem from="1688816157056" duration="102000" />
       <workItem from="1688816281980" duration="644000" />
       <workItem from="1689570932610" duration="30000" />
+      <workItem from="1690706713973" duration="424000" />
     </task>
     <servers />
   </component>
